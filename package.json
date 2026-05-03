@@ -1,0 +1,13 @@
+{
+  "name": "spring-arena",
+  "version": "0.0.1",
+  "description": "Interactive Spring Boot coding challenge platform",
+  "scripts": {
+    "dev": "concurrently \"cd backend && mvn spring-boot:run\" \"cd frontend && npm run dev\"",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && mvn spring-boot:run"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

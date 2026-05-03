@@ -19,6 +19,48 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+
+#node_modules
+node_modules/
+
+#env files
+.env
+.env.local
+
+# Backend
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/mvnw
+backend/mvnw.cmd
+backend/.mvn/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Workspace
+workspace/
+runs/
+docs/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Package locks
+package-lock.json
+yarn.lock

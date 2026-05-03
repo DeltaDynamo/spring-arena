@@ -1,0 +1,8 @@
+{
+  "id": "challenge-002",
+  "title": "POST /users validation",
+  "description": "Validate incoming user creation payloads and reject invalid JSON with a 400 response.",
+  "difficulty": "medium",
+  "template": "rest-template",
+  "status": "open"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "challenge-004",
+  "title": "Search users with pagination",
+  "description": "Build a filtered search endpoint that supports paging and query parameters.",
+  "difficulty": "hard",
+  "template": "rest-template",
+  "status": "open"
+}

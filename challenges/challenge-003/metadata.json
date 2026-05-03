@@ -1,0 +1,8 @@
+{
+  "id": "challenge-003",
+  "title": "Global exception handler",
+  "description": "Implement a controller advice class that converts runtime exceptions into friendly HTTP responses.",
+  "difficulty": "medium",
+  "template": "rest-template",
+  "status": "open"
+}

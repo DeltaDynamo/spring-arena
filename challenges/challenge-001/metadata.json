@@ -1,0 +1,8 @@
+{
+  "id": "challenge-001",
+  "title": "Build GET /users/{id}",
+  "description": "Create a REST endpoint that returns user details for a known ID and 404 for missing users.",
+  "difficulty": "easy",
+  "template": "rest-template",
+  "status": "open"
+}
