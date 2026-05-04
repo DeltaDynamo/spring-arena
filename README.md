@@ -4,6 +4,10 @@
 
 *Spring Arena is an interactive browser-based Spring Boot coding challenge platform. Users solve real backend challenges in a VS Code-like IDE, with instant test-run feedback.*
 
+![Dashboard](./docs/images/dashboard.png)
+
+![ChallengePage](./docs/images/challengePage.png)
+
 ---
 
 ### Quick Start
